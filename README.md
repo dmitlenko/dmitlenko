@@ -16,7 +16,6 @@ class Denis:
             "Databases": ["PostgreSQL", "MySQL", "SQLite"],
             "Other": ["HTML", "CSS", "Git", "Docker", "Linux"]
         }
-        self.tools = ["Git", "Docker", "Linux"]
         self.interests = ["Web Development", "Backend Development", "Data Science", "Machine Learning"]
         self.hobbies = ["Playing Guitar", "Playing videogames", "Learning New Technologies"]
     
