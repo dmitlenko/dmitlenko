@@ -1,6 +1,8 @@
-## Hi there 👋 I'm Denis!
+# Hi there 👋 I'm Denis Mitlenko!
 
-I'm a Python Developer with a passion for building web applications!
+I'm a **Python Developer** with a passion for building innovative web applications and a love for continuous learning!
+
+---
 
 ```python
 class Denis:
@@ -8,7 +10,12 @@ class Denis:
         self.name = "Denis Mitlenko"
         self.role = "Python Developer"
         self.location = "Dnipro, Ukraine"
-        self.skills = ["Python", "Django", "Celery", "PostgreSQL", "HTML", "CSS", "JavaScript"]
+        self.skills = {
+            "Python": ["Django", "Django REST Framework"],
+            "JavaScript": ["React", "Redux", "TypeScript"],
+            "Databases": ["PostgreSQL", "MySQL", "SQLite"],
+            "Other": ["HTML", "CSS", "Git", "Docker", "Linux"]
+        }
         self.tools = ["Git", "Docker", "Linux"]
         self.interests = ["Web Development", "Backend Development", "Data Science", "Machine Learning"]
         self.hobbies = ["Playing Guitar", "Playing videogames", "Learning New Technologies"]
