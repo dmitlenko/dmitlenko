@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Denis!
 
-<!--
-**dmitlenko/dmitlenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python Developer with a passion for building web applications!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class Denis:
+    def __init__(self):
+        self.name = "Denis Mitlenko"
+        self.role = "Python Developer"
+        self.location = "Dnipro, Ukraine"
+        self.skills = ["Python", "Django", "Celery", "PostgreSQL", "HTML", "CSS", "JavaScript"]
+        self.tools = ["Git", "Docker", "Linux"]
+        self.interests = ["Web Development", "Backend Development", "Data Science", "Machine Learning"]
+        self.hobbies = ["Playing Guitar", "Playing videogames", "Learning New Technologies"]
+    
+    def say_hi(self):
+        print("Thanks for stopping by! Feel free to connect with me on LinkedIn or send me an email.")
+    
+    def get_in_touch(self):
+        return {
+            "LinkedIn": "https://www.linkedin.com/in/denis-mitlenko-97b305292/",
+            "Email": "mitlenkodenis3@gmail.com",
+        }
+```
