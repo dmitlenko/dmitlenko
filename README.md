@@ -5,15 +5,14 @@ I am a software engineer with a passion for building things. Mainly I work with 
 ## ⛏️ My Tech Stack
 
 - **Back-end**: Python, Django, Django REST Framework, Redis, Celery
-- **Front-end**: JavaScript, HTMX, Alpine.js, React
+- **Front-end**: JavaScript, HTMX, Alpine.js, TypeScript, React
 - **Databases**: PostgreSQL, SQLite, Redis
 - **Tools**: Git, Docker, Gunicorn, 
 
 ## 📚 What I'm Learning
 
-- **Front-end**: TypeScript, Redux, Next.js, Tailwind CSS
+- **Front-end**: Vue.js, Nuxt.js, Vite
 - **Back-end**: FastAPI, Flask, GraphQL
-- **Databases**: MongoDB
 
 ---
 
